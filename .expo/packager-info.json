@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19000,
-  "expoServerNgrokUrl": "https://33-j24.anonymous.map-marker.exp.direct",
-  "packagerNgrokUrl": "https://packager.33-j24.anonymous.map-marker.exp.direct",
-  "ngrokPid": 4860,
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001,
+  "expoServerNgrokUrl": "https://33-j24.fcastillos.marker-map.exp.direct",
+  "packagerNgrokUrl": "https://packager.33-j24.fcastillos.marker-map.exp.direct",
+  "ngrokPid": 24404,
   "packagerPid": null,
   "webpackServerPort": null
 }

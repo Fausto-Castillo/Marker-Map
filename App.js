@@ -42,7 +42,6 @@ export default function App() {
   }
   
   const tooglePointsFilter = () => {
-    console.log('hi');
     setPointsFilter(!pointsFilter);
   };
     return (

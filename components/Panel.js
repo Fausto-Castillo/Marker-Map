@@ -5,7 +5,7 @@ export default ({onPressLeft,textLeft , onPressRight}) => {
     return(
         <View style={styles.panel}>
             <Button style={styles.buttonLeft} onPress={onPressLeft} title={textLeft} />
-            <Button title="Ocultar" onPress={onPressRight}/>
+            <Button title="Ocultar/Mostrar" onPress={onPressRight}/>
         </View>
     )
 }
